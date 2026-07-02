@@ -1,0 +1,31 @@
+# Microplastic Detector using ESP32 and IoT
+
+## 📌 Project Overview
+This project is designed to detect microplastics in water using an ESP32 microcontroller. It monitors water flow, turbidity, and plastic presence using sensors, displays the results on a TFT display, and uploads the data to ThingSpeak for real-time monitoring.
+
+## 🎯 Objective
+To develop a low-cost IoT-based system for detecting microplastics in water and monitoring water quality.
+
+## ⚙️ Components Used
+- ESP32
+- Turbidity Sensor
+- Water Flow Sensor
+- Laser Sensor
+- ST7735 TFT Display
+- ThingSpeak Cloud Platform
+
+## ✨ Features
+- Real-time water quality monitoring
+- Plastic detection using a laser sensor
+- Water flow measurement
+- TFT display for live results
+- Cloud data logging with ThingSpeak
+
+## 🛠️ Technologies Used
+- Arduino IDE
+- Embedded C++
+- IoT
+- ThingSpeak
+
+## 👩‍💻 Author
+Sherin Celsiya
